@@ -95,11 +95,34 @@ I don’t work for companies. I work with <strong>missions</strong>.
 </p>
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Master Stats (Ultimate Insight)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=(your-username)&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=(your-username)&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AHPz-2021&count_private=true&show_icons=true&theme=dark&hide=stars&rank_icon=false&custom_title=🔥%20Master%20Activity%20Map" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHPz-2021&layout=compact&theme=dark&custom_title=🧩%20Core%20Languages%20Stack" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AHPz-2021&theme=dark&layout=compact&custom_title=⏱️%20Coding%20Time%20(WakaTime)" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AHPz-2021&theme=dark&hide_border=true&ring=6366F1&fire=EF4444&sideNums=10B981&custom_title=📈%20Commit%20Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AHPz-2021&theme=onedark&row=2&no-bg=true&margin-w=5&margin-h=5" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AHPz-2021&repo=(YOUR_TOP_PROJECT)&show_owner=false&theme=dark" alt="Pinned Project" />
+</p>
+
+<p align="center">
+  <strong>🏆 Achievements unlocked:</strong> public+private commits, streaks, pinned repo stats, top languages, WakaTime integration
 </p>
 ---
 
