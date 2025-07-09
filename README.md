@@ -3,14 +3,14 @@
 </p><h1 align="center">👁‍🗨 Welcome to My Universe</h1><blockquote align="center">
   <em>“Code was never just syntax to me — it’s how I bend logic, control machines, and talk to the future.”</em>
 </blockquote>
----
+
 
 🔹 Who am I?
 
 I’m <strong>(AHPz)</strong>, a full-spectrum engineer based in <strong>(Bandar Abbas, Iran 🇮🇷)</strong> — a place where the sea meets raw logic.<br> I don’t just write code. I architect systems, exploit vulnerabilities, train neural minds, and protect digital realms.
 
 
----
+
 
 🧠 My Arsenal
 
@@ -36,7 +36,7 @@ I’m <strong>(AHPz)</strong>, a full-spectrum engineer based in <strong>(Bandar
     <td><code>Linux</code>, <code>Wireshark</code>, <code>Nmap</code>, <code>Ansible</code>, <code>K8s</code>, <code>Terraform</code>, <code>CI/CD</code></td>
   </tr>
 </table>
----
+
 
 🚀 Projects
 
@@ -54,7 +54,7 @@ I’m <strong>(AHPz)</strong>, a full-spectrum engineer based in <strong>(Bandar
   <p><em>Crypto-verified access, NSFW filter, inline UI, built with Pyrogram + SQLite</em></p>
   <a href="https://github.com/your-username/telegram-bot">🔗 View Bot</a>
 </div>
----
+
 
 🧛‍♂️ Philosophy
 
@@ -69,7 +69,7 @@ I don’t work for companies. I work with <strong>missions</strong>.
 
 
 
----
+
 
 🎯 Badges & Tools
 
@@ -93,7 +93,7 @@ I don’t work for companies. I work with <strong>missions</strong>.
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
 </p>
----
+
 
 ## 📊 GitHub Master Stats (Ultimate Insight)
 
@@ -124,7 +124,7 @@ I don’t work for companies. I work with <strong>missions</strong>.
 <p align="center">
   <strong>🏆 Achievements unlocked:</strong> public+private commits, streaks, pinned repo stats, top languages, WakaTime integration
 </p>
----
+
 
 🧿 Bonus
 
