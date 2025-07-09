@@ -1,5 +1,5 @@
 <!-- BANNER / LOGO --><p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Banner" width="100%">
+  <img src="https://i.postimg.cc/xTNv2g6z/Chat-GPT-Image-Jun-25-2025-08-31-45-PM.png" alt="Banner" width="100%">
 </p><h1 align="center">👁‍🗨 Welcome to My Universe</h1><blockquote align="center">
   <em>“Code was never just syntax to me — it’s how I bend logic, control machines, and talk to the future.”</em>
 </blockquote>
